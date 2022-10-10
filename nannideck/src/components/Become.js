@@ -1,7 +1,7 @@
 import './Become.css';
-import mobile from '../../images/mobile.png';
-import { Element } from '../../components';
-import { elementContent } from '../element/ElementData';
+import mobile from '../images/mobile.png';
+import Element from '../components/Element';
+import elementContent from '../components/ElementContent';
 import { forwardRef } from 'react';
 
 const Become = forwardRef(({ button, design, circles }, ref) => {

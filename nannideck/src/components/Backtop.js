@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FaArrowAltCircleUp } from 'react-icons/fa';
-import './BackTop.css';
+import "./Backtop.css";
 
 function BackTop({ topRef }) {
 	const [top, setTop] = useState(false);
