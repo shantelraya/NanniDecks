@@ -1,5 +1,5 @@
 import './Design.css';
-import leftBackground from '../../images/lang.jpg';
+import leftBackground from '../images/lang.jpg';
 import PropTypes from 'prop-types';
 
 function Design({ style }) {

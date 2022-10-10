@@ -1,6 +1,6 @@
-import icon1 from '../../images/consultation_50px.png';
-import icon2 from '../../images/thumbs_up_50px.png';
-import icon3 from '../../images/outline_50px.png';
+import icon1 from '../images/consultation_50px.png';
+import icon2 from '../images/thumbs_up_50px.png';
+import icon3 from '../images/outline_50px.png';
 
 export const services = [
 	{

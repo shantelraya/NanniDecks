@@ -1,7 +1,7 @@
-import rightBackground from '../../images/image2.jpg';
-import humanImage from '../../images/image1.png';
+import rightBackground from '../images/image2.jpg';
+import humanImage from '../images/image1.png';
 import { headerRightCountries } from './HeaderData';
-import { Circles } from '../../components';
+import Circles from '../components/Circles';
 
 function HeaderRight() {
 	return (

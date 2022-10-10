@@ -1,4 +1,5 @@
-import { Button, Design } from '../../components';
+import Button from "./Button";
+import Design from "./Design";
 
 function HeaderLeft({ servicesRef }) {
 	return (
