@@ -1,7 +1,7 @@
-import brand1 from '../images/bmw_96px.png';
-import brand2 from '../images/kia_96px.png';
-import brand3 from '../images/tesla_96px.png';
-import brand4 from '../images/suzuki_96px.png';
+import brand1 from '../images/anime1.png';
+import brand2 from '../images/anime2.png';
+import brand3 from '../images/plunderer.png';
+import brand4 from '../images/simpsons.png';
 
 export const clientImages = [
 	{

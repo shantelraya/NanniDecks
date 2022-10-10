@@ -18,7 +18,7 @@
 		},
 	},
 	{
-		text: 'Multilingual sort out you PIT',
+		text: 'Be able to work all around the world',
 		style: {
 			color: '#fff',
 			backgroundColor: '#bfd200',
