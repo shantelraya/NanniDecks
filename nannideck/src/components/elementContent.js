@@ -1,6 +1,6 @@
-export const elementContent = [
+ const elementContent = [
 	{
-		text: 'Up to $200 a day',
+		text: ' GET good experiences working with us',
 		style: {
 			color: '#fff',
 			backgroundColor: '#80b918',
@@ -36,3 +36,5 @@ export const elementContent = [
 		},
 	},
 ];
+
+export default elementContent;
