@@ -10,12 +10,11 @@ const Become = forwardRef(({ button, design, circles }, ref) => {
 			{design}
 			<div className="wrapper">
 				<div className="become" id="become" ref={ref}>
-					<h2>Become an Interpreter and start Profiting?</h2>
+					<h2>Become a Verified Nanny and start Profiting?</h2>
 					<div className="become-content">
 						<div className="become-text">
 							<p>
-								Signup free and get booked for gifts. Explore offers made by
-								clients and claim them.
+								Signup free and be able to profit and get more experience with us.
 							</p>
 							<p>Gets rating from clients and level up to get more booking.</p>
 							{button}
@@ -27,7 +26,7 @@ const Become = forwardRef(({ button, design, circles }, ref) => {
 								{elementContent?.slice(0, 4).map((item, index) => (
 									<Element key={index} text={item.text} style={item.style} />
 								))}
-							</div>
+							</div>TestimonialData
 						</div>
 					</div>
 				</div>

@@ -20,23 +20,23 @@ export const clientImages = [
 
 export const clientReviews = [
 	{
-		name: 'John Doe',
+		name: 'John Mathews',
 		designation: 'Senior Manage',
-		text: 'Dolorem quo nulla cupiditate neque facilis dolores laudantium debitis. Odit optio cum nostrum delectus dicta accusantium atque. Dolorum at consequuntur dolores sed!',
+		text: 'I am so happy to say that the services are topnotch and they do deliver what the say',
 	},
 	{
-		name: 'John Doe',
+		name: 'Jane Walters',
 		designation: 'Junior Manage',
-		text: 'Dolorem quo nulla cupiditate neque facilis dolores laudantium debitis. Odit optio cum nostrum delectus dicta accusantium atque. Dolorum at consequuntur dolores sed!',
+		text: 'I was not really sure if i would trust them considering how many agencies promising the same, i still tried and was suprised they did do what the promised',
 	},
 	{
-		name: 'John Doe',
+		name: 'Evan Singh',
 		designation: 'C.E.O.',
-		text: 'Dolorem quo nulla cupiditate neque facilis dolores laudantium debitis. Odit optio cum nostrum delectus dicta accusantium atque. Dolorum at consequuntur dolores sed!',
+		text: 'Exellent work. really did love the services',
 	},
 	{
-		name: 'John Doe',
+		name: 'Margaret Quan',
 		designation: 'General Manage',
-		text: 'Dolorem quo nulla cupiditate neque facilis dolores laudantium debitis. Odit optio cum nostrum delectus dicta accusantium atque. Dolorum at consequuntur dolores sed!',
+		text: 'wonderfull service and website ',
 	},
 ];

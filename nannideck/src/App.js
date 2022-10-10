@@ -4,18 +4,11 @@ import Become from './components/Become';
 import Button from './components/Button';
 import Circles from './components/Circles';
 import Design from './components/Design';
-import Element from './components/Element';
-import ElementData from './components/ElementContent';
 import Footer from './components/Footer';
 import Header from './components/Header';
-import HeaderData from './components/HeaderData';
-import HeaderLeft from './components/HeaderLeft';
-import HeaderRight from './components/HeaderRight';
-import index from './components/index';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
 import Testimonial from './components/Testimonials';
-import TestimonialData from './components/TestimonialData';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { useRef } from 'react';
 
