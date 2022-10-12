@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
+import Form from './components/Form';
 import Testimonial from './components/Testimonials';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { useRef } from 'react';
@@ -41,6 +42,7 @@ function App() {
 					/>
 				}
 			/>
+			<Form />
 			<Testimonial
 				design={
 					<Design
