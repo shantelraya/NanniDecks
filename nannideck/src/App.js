@@ -7,6 +7,7 @@ import Design from './components/Design';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
+import NannyList from './components/NannyList';
 import Services from './components/Services';
 import Form from './components/Form';
 import Testimonial from './components/Testimonials';
@@ -42,6 +43,7 @@ function App() {
 					/>
 				}
 			/>
+			<NannyList />
 			<Form />
 			<Testimonial
 				design={

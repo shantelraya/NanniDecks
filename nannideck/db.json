@@ -2,27 +2,33 @@
   "nannies": [
     {
       "id": 1,
-      "fullName": "Harry Potter.",
-      "residence": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
-      "gender": "M"
+      "fullName": "Harry Pinero.",
+      "residence": "America",
+      "gender": "Male"
     },
     {
       "id": 2,
       "fullName": "Helen Hardt.",
-      "residence": "She is a take-charge woman. But he is a master of control.Skye Manning knows what she wants. Her job as assistant and photographer,  Her job as assistant.",
-      "gender": "F"
+      "residence": "Westlnds ",
+      "gender": "Female"
     },
     {
       "id": 3,
       "fullName": "Solar Bones.",
-      "residence": "Solar Bones revolves around Marcus Conway, a deceased middle-aged engineer who has returned on All Souls' Day, and is reminiscing about his past life's events .",
-      "gender": "F"
+      "residence": "Lavington.",
+      "gender": "Female"
     },
     {
       "fullName": "Shantel",
-      "gender": "F",
+      "gender": "Female",
       "residence": "Parklands",
       "id": 4
+    },
+    {
+      "fullName": "Raya Niraj",
+      "gender": "Female",
+      "residence": "Muthaiga park",
+      "id": 5
     }
   ]
 }
