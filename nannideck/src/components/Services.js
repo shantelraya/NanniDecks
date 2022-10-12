@@ -27,7 +27,7 @@ const Services = forwardRef(({ button }, ref) => {
 						</div>
 					))}
 				</div>
-				<div className="signup">{button}</div>
+				{/* <div className="signup">{button}</div> */}
 			</div>
 		</div>
 	);

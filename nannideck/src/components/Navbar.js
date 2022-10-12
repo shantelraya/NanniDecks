@@ -1,9 +1,10 @@
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { FaBars } from 'react-icons/fa';
 import { useState } from 'react';
 import './Navbar.css';
 
 function Navbar({ button }) {
+	const [page, setPage] =useState('/');
 	const [toggle, setToggle] = useState(false);
 	const [mobileView, setMobileView] = useState(false);
 
@@ -20,7 +21,7 @@ function Navbar({ button }) {
 		<div className="wrapper">
 			<nav className="navbar">
 				<div className="logo">
-					<Link to="/">NanniDecks</Link>
+					<NavLink to="/">NanniDecks</NavLink>
 					<span></span>
 				</div>
 				<FaBars className="toggle" onClick={() => setToggle(!toggle)} />
@@ -30,10 +31,10 @@ function Navbar({ button }) {
 					onClick={() => setToggle(!toggle)}
 				>
 					<li>
-						<Link to="/about">About us</Link>
+						<NavLink to="/form">Form</NavLink>
 					</li>
 					<li>
-						<Link to="/contact">Contact</Link>
+						<NavLink to="/contact">Contact</NavLink>
 					</li>
 					<li>{button}</li>
 				</ul>

@@ -26,7 +26,7 @@ function Form() {
   return (
     <div>
       <p id="form-p">
-        This page allows you to apply for a nanny position :()
+        This section allows you to apply for a Nanny position
       </p>
       <div>
         <form className="form-review" onSubmit={handleSubmit} >
