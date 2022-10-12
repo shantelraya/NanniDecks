@@ -9,7 +9,7 @@ function Form() {
     e.preventDefault();
     const form = {fullName,gender,residence}
   
-    fetch('http://localhost:3000/nannies',{
+    fetch('https://nanniedeck.herokuapp.com/nannies',{
       method: 'POST',
       headers:{'Content-Type':'application/json'},
       body: JSON.stringify(form)

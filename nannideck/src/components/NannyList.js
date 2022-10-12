@@ -5,7 +5,7 @@ function NannyList() {
   const [nannies, setNannies] = useState([])
   
   useEffect(() =>{
-      fetch("http://localhost:3000/nannies")
+      fetch("https://nanniedeck.herokuapp.com/nannies")
 	  .then((res)=>res.json())
 	  .then((nannies)=>{
 		console.log(nannies)
